@@ -1,5 +1,5 @@
 {
-  "devMode": "true",
+  "devMode": "false",
   "locations":[
     { "country":  "albania", "geoName": "albania", "cities": ["tirana", "durrës", "vlorë", "elbasan", "shkodër", "kamëz", "fier", "korçë"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" },
     { "country":  "andorra", "geoName": "andorra", "cities": ["andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" },
